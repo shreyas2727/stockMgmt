@@ -1,0 +1,8 @@
+venv/*
+myvenv/*
+.idea/*
+stockproject/__pycache__/
+.vscode/
+quotes/__pycache__/
+quotes/migrations/
+db.sqlite3
